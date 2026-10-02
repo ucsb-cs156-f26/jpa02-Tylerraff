@@ -1,8 +1,8 @@
-# STARTER-jpa02
+# jpa02-Tylerraff
 
-Repo: https://github.com/ucsb-cs156-f26/jpa02-Tylerraff
+Repo: https://github.com/ucsb-cs156-f26/jpa02-Tylerraff.git
 
-Deployed at: https://jpa02-tylerraff.dokku-11.cs.ucsb.edu/info
+Deployed at: https://jpa02-tylerraff.dokku-11.cs.ucsb.edu
 
 # About this repo
 
